@@ -8,7 +8,6 @@ StuDF <- data.frame(
   name=c("小明","大雄","胖虎","小新","大白"),
   score=c(80,60,90,70,50)
   )
-StuDF 
 ```
 
 ```{r}
